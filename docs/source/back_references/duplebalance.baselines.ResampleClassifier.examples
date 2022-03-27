@@ -1,0 +1,23 @@
+
+
+Examples using ``duplebalance.baselines.ResampleClassifier``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="In this example, we compare the duplebalance.DupleBalanceClassifier  and other resampling-based...">
+
+.. only:: html
+
+ .. figure:: /auto_examples/comparison/images/thumb/sphx_glr_plot_versus_resampling_thumb.png
+     :alt: Compare DuBE with resampling-based IL methods (5 classes)
+
+     :ref:`sphx_glr_auto_examples_comparison_plot_versus_resampling.py`
+
+.. raw:: html
+
+    </div>
+
+.. only:: not html
+
+ * :ref:`sphx_glr_auto_examples_comparison_plot_versus_resampling.py`
